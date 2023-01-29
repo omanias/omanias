@@ -1,16 +1,19 @@
-### Hi there 👋
+![omarjesusmanias](https://avatars.githubusercontent.com/u/100287962?s=96&v=4)
 
-<!--
-**omanias/omanias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Omar Jesús Maniás 
 
-Here are some ideas to get you started:
+### FullStack Dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+_Soy desarrollador full stack con +4 años de experiencia en el manejo de distintas tecnologías, tales como, HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDb, Postgresql. 
+Me describo como una persona con actitud proactiva y muy flexible a los cambios. Tengo iniciativa para el autodesarrollo y curiosidad para investigar sobre las últimas tecnologías. Habilidad para aceptar desafíos. Espíritu colaborativo en equipo. Fuerte habilidad analítica y orientación a los resultados. Ganas de crecer profesionalmente._
+
+---
+
+```js
+const mySelf = () => "Instructor de Javascript y ReactJs"
+
+```
+
+[LinkedIn](https://www.linkedin.com/in/omar-jesus-manias?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuGWnpT7aReGmqtXADSfyAA%3D%3D)
