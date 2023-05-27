@@ -6,8 +6,7 @@
 
 ---
 
-_Soy desarrollador full stack con +4 años de experiencia en el manejo de distintas tecnologías, tales como, HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDb, Postgresql. 
-Me describo como una persona con actitud proactiva y muy flexible a los cambios. Tengo iniciativa para el autodesarrollo y curiosidad para investigar sobre las últimas tecnologías. Habilidad para aceptar desafíos. Espíritu colaborativo en equipo. Fuerte habilidad analítica y orientación a los resultados. Ganas de crecer profesionalmente._
+_I am a full stack developer with +4 years of experience in handling different technologies such as HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDb, Postgresql. I describe myself as a person with proactive attitude and very flexible to changes. I have initiative for self-development and curiosity to research on the latest technologies. Ability to accept challenges. Collaborative team spirit. Strong analytical skills and results oriented. Eager to grow professionally._
 
 ---
 
