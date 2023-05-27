@@ -12,7 +12,7 @@ Me describo como una persona con actitud proactiva y muy flexible a los cambios.
 ---
 
 ```js
-const mySelf = () => "Instructor de Javascript y ReactJs"
+const mySelf = () => "Instructor de Javascript, ReactJs y NodeJs"
 
 ```
 
