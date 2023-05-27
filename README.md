@@ -11,7 +11,7 @@ _I am a full stack developer with +4 years of experience in handling different t
 ---
 
 ```js
-const mySelf = () => "Instructor de Javascript, ReactJs y NodeJs"
+const mySelf = () => "Javascript, ReactJs y NodeJs Instructor"
 
 ```
 
